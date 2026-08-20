@@ -123,3 +123,6 @@ python main.py
 - Try asking: `"What is 45.5 plus 54.5?"` to trigger the `calculator` tool.
 - Try asking: `"Greet Alice"` or `"Say hello to Bob"` to trigger the `say_hello` tool.
 - Type `quit` to exit the session.
+
+Github 
+Example to update and push code
