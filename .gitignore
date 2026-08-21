@@ -149,6 +149,7 @@ cython_debug/
 .env
 .env.*
 !.env.example
+.streamlit/secrets.toml
 
 # Operating System Files
 Thumbs.db
